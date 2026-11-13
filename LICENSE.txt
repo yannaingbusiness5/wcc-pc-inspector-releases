@@ -1,0 +1,22 @@
+WCC PC Inspector
+Copyright (c) 2026 Win Computer Center, Yangon, Myanmar.
+
+Freeware license
+
+This program is free to use and free to share.
+You may give an unchanged copy to someone else.
+
+You may not sell this program, and you may not charge a fee for the program itself.
+
+There is no warranty. The program is provided as it is. Win Computer Center is not responsible for any loss or damage from using it.
+
+No personal data is collected or sent anywhere. The program only asks GitHub whether a newer version exists.
+
+Win Computer Center
+09 40100 7474 / 09 95353 4242
+
+မြန်မာလို
+ဤပရိုဂရမ်ကို အခမဲ့ အသုံးပြုနိုင်ပြီး အခမဲ့ မျှဝေနိုင်သည်။
+ပရိုဂရမ်ကို ပြန်လည်ရောင်းချခြင်း၊ ပရိုဂရမ်အတွက် ငွေတောင်းခြင်း မပြုရ။
+အာမခံမရှိပါ။ Win Computer Center သည် အသုံးပြုမှုကြောင့် ဖြစ်သော ပျက်စီးမှုအတွက် တာဝန်မရှိပါ။
+ကိုယ်ရေးအချက်အလက်များကို မစုဆောင်းပါ၊ မပို့ပါ။

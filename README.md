@@ -18,6 +18,27 @@ Go to [Releases](../../releases/latest) and download one of these:
 
 For full disk health (SMART, temperature, hours), right-click the app and choose **Run as administrator**.
 
+## Setup or Portable? / Setup နဲ့ Portable ဘာကွာလဲ
+
+| | Setup (`..._Setup.exe`) | Portable (`..._portable.zip`) |
+|---|---|---|
+| Install | Installs like a normal program: Start menu, desktop shortcut and an uninstaller | No install. Unzip it and run `WCC_PC_Inspector.exe` |
+| Where | **All users** (Program Files, admin password once, safer) or **only for me** | Any folder or a USB stick |
+| Best for | Shop or home PCs you use regularly | Carrying on a USB stick to check second-hand PCs |
+| What stays behind | Uninstall removes the app, its settings and logs | Settings and logs stay in `%LOCALAPPDATA%\WCC_PC_Inspector` on each PC it runs on. There is no uninstaller |
+
+| | Setup | Portable |
+|---|---|---|
+| Install | ပုံမှန် program လို install လုပ်ပါတယ်။ Start menu၊ desktop shortcut နဲ့ uninstaller ပါပါတယ် | Install မလုပ်ရပါ။ Zip ကိုဖြေပြီး `WCC_PC_Inspector.exe` ကို run ပါ |
+| ထည့်တဲ့နေရာ | **All users** (Program Files၊ admin password တစ်ခါလို၊ ပိုလုံခြုံ) ဒါမှမဟုတ် **Only for me** | ကြိုက်တဲ့ folder ဒါမှမဟုတ် USB stick |
+| သင့်တော်တာ | ဆိုင် ဒါမှမဟုတ် အိမ်မှာ ပုံမှန်သုံးတဲ့ PC | USB နဲ့ ယူသွားပြီး second-hand PC စစ်ဖို့ |
+| ကျန်ခဲ့တာ | Uninstall လုပ်ရင် app၊ settings နဲ့ log အကုန် ဖျက်ပါတယ် | Run ခဲ့တဲ့ PC တိုင်းမှာ settings နဲ့ log ကို `%LOCALAPPDATA%\WCC_PC_Inspector` မှာ ချန်ခဲ့ပါတယ်။ Uninstaller မပါပါ |
+
+Both have the same features and the same update check. နှစ်ခုလုံး feature တွေ အတူတူပဲ၊ update check လည်း အတူတူပါပဲ။
+
+- **Warning:** do not use **Run as administrator** from a USB copy that someone else could have changed. If you are a buyer checking a seller's PC, download the portable zip again from this page and check its SHA256 first.
+- **သတိ:** တခြားသူ ပြင်ထားနိုင်တဲ့ USB ထဲက copy ကနေ **Run as administrator** နဲ့ မဖွင့်ပါနဲ့။ ရောင်းသူရဲ့ PC ကို ဝယ်သူက စစ်မယ်ဆိုရင် ဒီစာမျက်နှာကနေ portable zip ကို ပြန်ဒေါင်းပြီး SHA256 ကို အရင်စစ်ပါ။
+
 ## "Windows protected your PC" message
 
 The app is free and not code-signed, so Windows SmartScreen may warn you. Click **More info**, then **Run anyway**.
